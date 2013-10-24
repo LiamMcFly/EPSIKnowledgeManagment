@@ -1,0 +1,4 @@
+km:
+    resource: "@KMBundle/Resources/config/routing.yml"
+    prefix:   /
+
